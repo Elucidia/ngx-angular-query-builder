@@ -1,3 +1,8 @@
+# Custom build notes:
+ rm -rf dist out-tsc node_modules
+ npm install
+ npx ng build ngx-angular-query-builder
+
 # NgxAngularQueryBuilder
 
 The goal of this project is to enable Angular 12+ support for the original [angular2-query-builder](https://github.com/zebzhao/Angular-QueryBuilder). It is _not_ production ready. This project may not be maintained. Should the original project become active again, this library may be abandoned.
