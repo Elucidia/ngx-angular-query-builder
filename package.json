@@ -12,7 +12,7 @@
     "prettier": "npx prettier --write **"
   },
   "files": [
-    "dist"
+    "/dist/ngx-angular-query-builder/**/*"
   ],
   "private": true,
   "dependencies": {
