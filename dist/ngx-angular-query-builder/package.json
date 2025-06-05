@@ -10,6 +10,7 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
+  "main": "fesm2022/ngx-angular-query-builder.mjs",
   "module": "fesm2022/ngx-angular-query-builder.mjs",
   "typings": "index.d.ts",
   "exports": {
