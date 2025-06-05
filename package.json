@@ -9,9 +9,7 @@
     "watch-package": "ng build ngx-angular-query-builder --watch --configuration development",
     "watch-demo": "ng build demo --watch --configuration development",
     "test": "ng test",
-    "prettier": "npx prettier --write **",
-    "build": "tsc",
-    "prepare": "npm run build"
+    "prettier": "npx prettier --write **"
   },
   "main": "dist/ngx-angular-query-builder/index.js",
   "types": "dist/ngx-angular-query-builder/index.d.ts",
