@@ -11,6 +11,9 @@
     "test": "ng test",
     "prettier": "npx prettier --write **"
   },
+  "files": [
+    "dist"
+  ],
   "private": true,
   "dependencies": {
     "@angular/animations": "^18.0.3 || ^19.0.0",
