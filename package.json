@@ -13,7 +13,7 @@
     "build": "ng build ngx-angular-query-builder",
     "prepare": "npm run build"
   },
-  "main": "dist/ngx-angular-query-builder/index.js",
+  "main": "dist/ngx-angular-query-builder/fesm2022/ngx-angular-query-builder.mjs",
   "types": "dist/ngx-angular-query-builder/index.d.ts",
   "private": true,
   "dependencies": {
